@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279121306393",
+    "project_id": "csiauthentication-54e0a",
+    "storage_bucket": "csiauthentication-54e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279121306393:android:a419a22c2a3aeb8d075b88",
+        "android_client_info": {
+          "package_name": "com.example.acm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279121306393-rq0hum9oj7npe4schtc1l1lh9fbn4ucg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIWgqSf8_vBfwiuSadErGaQLyEeBqdIlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279121306393-rq0hum9oj7npe4schtc1l1lh9fbn4ucg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
